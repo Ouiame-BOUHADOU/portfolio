@@ -36,7 +36,8 @@ The website includes:
 | Human Cybersecurity Risk Assessment | Phishing simulations and human-related security risks |
 | OAuth 2.0 & OpenID Connect | Authentication and identity management |
 | SecureIncident Platform | Secure IT incident management and role-based access control |
-| Information Security Audit & Risk Management | GRC, ISMS and ISO/IEC 27001 |
+| Secure Multimodal Biometric Backend | Multimodal biometric authentication, REST APIs and privacy-preserving system design (In Progress) |
+| Information Security Audit & Risk Management | GRC, ISMS and ISO/IEC 27001 (In Progress) |
 | BashOrchestrator | Linux automation and script orchestration |
 
 Some projects are ongoing. Their descriptions distinguish implemented features from planned work.
